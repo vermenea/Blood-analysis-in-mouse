@@ -25,5 +25,5 @@ install.packages(c("dplyr", "readr", "stringr", "rstatix", "ggplot2", "ggpubr"))
 ### Running analisys
 
 ```
-git clone https://github.com/your-account/r-scripts-biochemistry.git
+git clone https://github.com/vermenea/Blood-analysis-in-mouse.git
 ```
